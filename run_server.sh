@@ -1,1 +1,0 @@
-/home/abdellah/Bureau/RapStats/venv/bin/python /home/abdellah/Bureau/RapStats/src/manage.py runserver
